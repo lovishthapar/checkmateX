@@ -2,7 +2,7 @@
 
 checkmateX is made using Python and it's libraries with the goal of creating a powerful and efficient chess engine capable of playing at a high level.
 <div align = "center">
- <img src="https://raw.githubusercontent.com/IqmanS/beaver-chess-engine/master/images/beaver-chess-logo%20(2).png" alt="Chess Board" width="250"> 
+ <img src="https://github.com/lovishthapar/checkmateX/blob/main/images/CheckmateXlogo.png" alt="Chess Board" width="250"> 
 </div>
 
 ## OVERVIEW
