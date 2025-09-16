@@ -1,4 +1,4 @@
-# BEAVER CHESS ENGINE
+# checkmateX CHESS ENGINE
 
 checkmateX is made using Python and it's libraries with the goal of creating a powerful and efficient chess engine capable of playing at a high level.
 <div align = "center">
