@@ -11,6 +11,6 @@ CheckmateX is an advanced chess engine designed for efficient and accurate gamep
 
 The engine's core functionality includes analyzing the current board, generating all possible moves, and accurately evaluating the strength of each move to select the most strategic option. This focus on deep analysis and strategic evaluation results in an engine that not only plays well but adapts effectively to an opponent's style. The project is under continuous development, with an ongoing commitment to optimizing performance and enhancing its algorithmic capabilities.</p>
 <div align = "center">
- <img src="https://raw.githubusercontent.com/IqmanS/beaver-chess-engine/master/images/Beaver.png" alt="Chess Board" width="500"> 
+ <img src="https://github.com/lovishthapar/checkmateX/blob/main/images/checkmatex.png" alt="Chess Board" width="500"> 
  <p>Chess Board GUI</p>
 </div>
